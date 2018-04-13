@@ -1,4 +1,4 @@
-# Paid-Modules-Info
+# Paid Modules Info
 
 Hopefullly you won't need to, but if you find any issue with my paid modules, you can open a new issue here.
 
